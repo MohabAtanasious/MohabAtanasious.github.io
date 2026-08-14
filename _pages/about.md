@@ -2,33 +2,34 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Candidate, <a href='https://www.diag.uniroma1.it/'>DIAG</a> — Sapienza University of Rome
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>DIAG — Networked Systems Group</p>
+    <p>Sapienza University of Rome</p>
+    <p>Rome, Italy</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+news: true
+selected_papers: true
+social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD candidate in **Automatic Control, Bioengineering and Operations
+Research (ABRO)** at [Sapienza University of Rome](https://www.uniroma1.it/),
+in the Networked Systems Group at [DIAG](https://www.diag.uniroma1.it/), advised
+by Prof. Francesco Delli Priscoli.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research focuses on **optimal and data-driven control** — model predictive
+control (MPC), reinforcement learning, and physics-informed neural networks —
+applied to **energy systems** (storage and EV fast-charging), **healthcare**
+(individualized control for type-1 diabetes, medical imaging) and **robotics**.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I hold a BSc in Computer and Automation Engineering and an MSc in Control
+Engineering, both *summa cum laude* with the Excellence Path, from Sapienza.
+
+Feel free to reach out about research collaborations, or take a look at my
+[publications](/publications/) and [projects](/projects/).
